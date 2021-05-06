@@ -3,7 +3,7 @@ ___
 
 ##### Items to cover later:
 
-*Creatining a UI in Python
-*Creating user input inside UI
-*Styling the UI
-*Add functioning data saves to program
+* Creatining a UI in Python
+* Creating user input inside UI
+* Styling the UI
+* Add functioning data saves to program
